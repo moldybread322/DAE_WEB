@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.cat-image {
+  margin-top: 20px;
+}
+
+.cat-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  margin-top: 20px;
+}
